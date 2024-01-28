@@ -22,12 +22,12 @@ I’m a committed algorithm researcher and backend engineer with 3 years of indu
 specializing in 3D synthetic data generation for computer vision tasks.
 
 I possess expertise in game engines, computer graphics, and machine learning. 
-I’m into:
+I'm into:
 - Engine tools development (Unreal Engine, Blender, etc.)
 - Rendering techniques (PBR, differentiable rendering, NeRF, etc.)
-- Backend development (FastAPI, Flask, etc.)
+- 3D computer vision (Novel view synthesis, generative models on 3D, etc.)
+- Backend development (FastAPI, Flask, etc.) and scalable robust systems
 - Open-source projects
-- Scalable robust systems
 
 ### Languages and Tools:
 
@@ -36,12 +36,16 @@ I’m into:
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white)](https://unrealengine.com/)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=Blender&logoColor=white)](https://www.blender.org/)
+[![PyTorch3D Badge](https://custom-icon-badges.demolab.com/badge/PyTorch3D-white.svg?logo=pytorch3d&logoColor=white)](https://pytorch3d.org/)
+[![Mitsuba Badge](https://custom-icon-badges.demolab.com/badge/Mitsuba-green.svg?logo=mitsuba&logoColor=white)](https://www.mitsuba-renderer.org/)
+<br>
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
 [![Flask](https://img.shields.io/badge/Flask-black.svg?logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=Git&logoColor=white)](https://git-scm.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io)
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=Git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=Linux&logoColor=black)](https://www.linux.org/)
+[![LaTex](https://img.shields.io/badge/LaTeX-%23008080.svg?logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 
 ### Open-source Projects:
 
@@ -63,6 +67,5 @@ I’m into:
 https://shields.io/
 https://simpleicons.org/
 https://github.com/DenverCoder1/custom-icon-badges
-
 
 -->
