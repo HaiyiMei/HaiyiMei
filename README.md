@@ -7,6 +7,7 @@
   [![Homepage Badge](https://custom-icon-badges.demolab.com/badge/Homepage-013243.svg?logo=home)](https://haiyi-mei.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haiyimei/)
   [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TOZ9wR4AAAAJ)
+  [![Youtube Badge](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@haiyimei)
   [![Bilibili Badge](https://img.shields.io/badge/-Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/30424533)
   [![Gmail Badge](https://custom-icon-badges.demolab.com/badge/Mail-EA4335.svg?logo=mail)](mailto:haiyimei@gmail.com)
 
