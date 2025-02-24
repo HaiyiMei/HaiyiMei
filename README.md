@@ -19,16 +19,27 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haiyimei" alt="haiyimei" /></a>
 !-->
 
-I’m a committed algorithm researcher and backend engineer with 3 years of industry experience,
-specializing in 3D synthetic data generation for computer vision tasks.
+I’m a committed algorithm researcher and backend engineer with 3 years of industry experience.
+Specializing in 3D synthetic data generation for computer vision tasks,
+I have contributed to 9 papers in top-tier conferences.
 
-I possess expertise in game engines, computer graphics, and machine learning. 
-I'm into:
-- Engine tools development (Unreal Engine, Blender, etc.)
-- Rendering techniques (PBR, differentiable rendering, NeRF, etc.)
-- 3D computer vision (Novel view synthesis, generative models on 3D, etc.)
-- Backend development (FastAPI, Flask, etc.) and scalable robust systems
-- Open-source projects
+I’m well-versed in the text-to-video generation pipeline,
+contributing to VAE training, dataset preparation, automated annotation, and video acquisition using crawler techniques.
+
+Beyond research, I’m passionate about developing autonomous AI agents,
+leveraging my backend expertise and cutting-edge LLMs to create intelligent, scalable solutions.
+
+I thrive on pushing the boundaries of AI systems and automation.
+
+My expertise spans:
+
+- Engine tools development: Unreal Engine, Blender, etc.
+- Rendering techniques: PBR, differentiable rendering, NeRF, 3DGS, etc.
+- 3D computer vision: Novel view synthesis, generative models on 3D, etc.
+- Text/image-to-video generation: VAE, Diffusion models, dataset preparation (automated annotation, crawler techniques), etc.
+- Backend development: FastAPI, Flask, scalable robust system design, etc.
+- LLM and autonomous AI agents: LLM integration, prompt engineering, agentic framework, etc.
+- Open-source projects: CI/CD, Docker, Kubernetes, etc.
 
 ### Languages and Tools:
 
@@ -43,6 +54,7 @@ I'm into:
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
 [![Flask](https://img.shields.io/badge/Flask-black.svg?logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Smolagents](https://img.shields.io/badge/Smolagents-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/docs/smolagents/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io)
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=Git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=Linux&logoColor=black)](https://www.linux.org/)
